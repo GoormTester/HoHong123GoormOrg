@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New test main
+=======
+New test
+>>>>>>> sub3
